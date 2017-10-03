@@ -4,3 +4,4 @@ def display_board
   print    |
   puts -
   print    |
+end
