@@ -1,9 +1,9 @@
 def display_board
-  puts    |   |
+  print    |   |
   puts -----------
-  puts    |   |
+  print    |   |
   puts -----------
-  puts    |   |
+  print    |   |
 end
 
 display_board
